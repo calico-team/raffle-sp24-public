@@ -1,6 +1,6 @@
-# raffle-sp23
+# raffle-sp24
 
-This is the code that runs the raffle for CALICO Spring '23!
+This is the code that runs the raffle for CALICO Spring '24!
 
 Install stuff with:
 
@@ -16,4 +16,3 @@ Also check out the glorious `seed.txt`.
 
 Congrats to everyone who won!
 
-TODO explain how the scripts work and stop procrastinating writing documentation
